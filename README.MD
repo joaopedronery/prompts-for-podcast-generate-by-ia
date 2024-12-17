@@ -46,9 +46,3 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Audio gerado pela elevenLabs
 
 
-
-
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
